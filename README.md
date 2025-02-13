@@ -90,9 +90,6 @@ gcc client.c -o client
 
 ## Autores
 
-- **Lucas Otsu Akatsuka**
+- **Lucas Jun Otsu Akatsuka**
 
-## Licença
-
-Este projeto está sob a licença MIT.
 
