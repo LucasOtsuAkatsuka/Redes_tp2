@@ -14,9 +14,8 @@ Este repositório contém a implementação do trabalho prático 2 da disciplina
 
 ```
 Redes_tp2/
-│-- src/                 # Código-fonte do projeto
-│   │-- server.c         # Implementação do servidor
-│   │-- client.c         # Implementação do cliente
+│-- server.c         # Implementação do servidor
+│-- client.c         # Implementação do cliente
 │-- README.md           # Documentação do projeto
 ```
 
